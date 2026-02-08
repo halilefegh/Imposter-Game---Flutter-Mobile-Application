@@ -1,4 +1,9 @@
-android/* linguist-vendored
-ios/* linguist-vendored
-windows/* linguist-vendored
-build/* linguist-vendored
+
+android/**/* linguist-vendored
+ios/**/* linguist-vendored
+windows/**/* linguist-vendored
+linux/**/* linguist-vendored
+macos/**/* linguist-vendored
+build/**/* linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
