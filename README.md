@@ -10,7 +10,6 @@ A social deduction mobile game built with **Flutter**. This project focuses on i
  
 ## 🚀 Key Features
 - **Dynamic Role Management:** Automated system for assigning "Imposter" and "Crewmate" roles.
-- **Game Loop Implementation:** Structured logic flow for game rounds, voting systems, and win/loss conditions.
 - **Responsive Design:** A clean, mobile-first interface optimized for various screen sizes.
 - **State Management:** Implementation of efficient data flow and UI updates.
 
