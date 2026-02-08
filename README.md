@@ -7,7 +7,7 @@
 A social deduction mobile game built with **Flutter**. This project focuses on implementing robust game logic, player role distribution, and interactive UI components. It demonstrates a structured approach to mobile application development using Dart.
 
 > **⚠️ Early Access:** This project is currently in active development. Core gameplay mechanics are functional, but UI refinements and additional features are ongoing.
-
+ 
 ## 🚀 Key Features
 - **Dynamic Role Management:** Automated system for assigning "Imposter" and "Crewmate" roles.
 - **Game Loop Implementation:** Structured logic flow for game rounds, voting systems, and win/loss conditions.
