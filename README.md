@@ -1,16 +1,35 @@
-# imposter
+# Imposter Game
 
-A new Flutter project.
+![Status](https://img.shields.io/badge/Status-Early%20Access-orange)
+![Framework](https://img.shields.io/badge/Framework-Flutter-blue)
+![Language](https://img.shields.io/badge/Language-Dart-0175C2)
 
-## Getting Started
+A social deduction mobile game built with **Flutter**. This project focuses on implementing robust game logic, player role distribution, and interactive UI components. It demonstrates a structured approach to mobile application development using Dart.
 
-This project is a starting point for a Flutter application.
+> **⚠️ Early Access:** This project is currently in active development. Core gameplay mechanics are functional, but UI refinements and additional features are ongoing.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Key Features
+- **Dynamic Role Management:** Automated system for assigning "Imposter" and "Crewmate" roles.
+- **Game Loop Implementation:** Structured logic flow for game rounds, voting systems, and win/loss conditions.
+- **Responsive Design:** A clean, mobile-first interface optimized for various screen sizes.
+- **State Management:** Implementation of efficient data flow and UI updates.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
+- **Framework:** Flutter (3.x+)
+- **Language:** Dart
+- **Design:** Minimalist Material/Cupertino widgets.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
+To ensure scalability and maintainability, the project follows standard Flutter conventions:
+- `lib/`: Contains the core application logic, UI screens, and data models.
+- `android/` & `ios/`: Native platform configurations.
+- `assets/`: Resource files for fonts, icons, and static data.
+
+## 🛠 Technical Setup & Installation
+
+Follow these steps to set up the project locally for development or testing.
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/kullanici-adin/imposter-game.git](https://github.com/kullanici-adin/imposter-game.git)
+cd imposter
